@@ -1,6 +1,6 @@
-
-
 # Archi - ArchiMate Modelling Editor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Farchi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Farchi?ref=badge_shield)
+
 
 Archi® is a free, open source, cross-platform tool and editor to create ArchiMate models.
 
@@ -23,3 +23,6 @@ All developer resources are here:
 ## Contributing code to Archi
 
 Please see [How can I contribute code to Archi?](https://github.com/Phillipus/archi/wiki/How-can-I-contribute-code-to-Archi%3F)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Farchi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Farchi?ref=badge_large)
